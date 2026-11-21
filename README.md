@@ -39,6 +39,7 @@ Consistency over perfection. One problem at a time!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/AnandInamdar180/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AnandInamdar180/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -66,4 +67,8 @@ Consistency over perfection. One problem at a time!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AnandInamdar180/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
