@@ -74,6 +74,7 @@ Consistency over perfection. One problem at a time!
 | [0027-remove-element](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,5 @@ Consistency over perfection. One problem at a time!
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
