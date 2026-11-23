@@ -39,6 +39,7 @@ Consistency over perfection. One problem at a time!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AnandInamdar180/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -84,4 +85,8 @@ Consistency over perfection. One problem at a time!
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnandInamdar180/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AnandInamdar180/DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
